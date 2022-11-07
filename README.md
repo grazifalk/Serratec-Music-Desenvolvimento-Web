@@ -5,4 +5,4 @@
 > Projeto Serratec Music -
 Conteúdo complementar da disciplina de Desenvolvimento Web
 
-[🔗 Clique aqui para acessar](#)
+<!-- [🔗 Clique aqui para acessar](#) -->
