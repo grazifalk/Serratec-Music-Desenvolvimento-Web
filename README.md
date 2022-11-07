@@ -1,2 +1,8 @@
 # Serratec-Music-Desenvolvimento-Web
-Projeto Serratec Music, conteúdo complementar da disciplina de Desenvolvimento Web
+
+![preview](./.github/preview.jpg)
+
+> Projeto Serratec Music -
+Conteúdo complementar da disciplina de Desenvolvimento Web
+
+[🔗 Clique aqui para acessar](#)
